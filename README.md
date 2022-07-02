@@ -13,4 +13,4 @@ representam as implementações realizadas durante os seguintes conteúdos/víde
 - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Yannarp/Matches-Simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 
 4. Explorando o Firebase Para Apps Android Resilientes
-- [elease/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Yannarp/Matches-Simulator-app/tree/elease/explorando-o-firebase-para-apps-android-resilientes)
+- [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Yannarp/Matches-Simulator-app/tree/elease/explorando-o-firebase-para-apps-android-resilientes)
