@@ -8,3 +8,9 @@ representam as implementações realizadas durante os seguintes conteúdos/víde
 
 2. Componentes, Layouts e UI/UX Em Apps Android
 - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/Yannarp/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
+
+3. Java e Kotlin juntos!? Construindo Apps Android
+- [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Yannarp/Matches-Simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+
+4. Explorando o Firebase Para Apps Android Resilientes
+- [elease/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Yannarp/Matches-Simulator-app/tree/elease/explorando-o-firebase-para-apps-android-resilientes)
